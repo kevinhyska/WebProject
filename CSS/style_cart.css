@@ -33,3 +33,23 @@
      font-size: 15px;
      text-transform: capitalize;
   }
+  @media (max-width:1150px){
+    .shopping_cart{
+      overflow-x: scroll;
+    }
+  
+    table{
+      width: 900px;
+    }
+  }
+  
+  
+  @media (max-width:460px){
+    .heading{
+      font-size: 20px;
+    }
+  
+    img{
+      height: 150px;
+    }
+  }
