@@ -51,3 +51,5 @@ After carefully analyzing the requirements and functionality of the website, we 
 important diagrams by the end of the analysis process . They are the ERD(entity-relationship diagram)
 diagram and RS (relational schema) which are the basis for visually and logically concepting our entities 
 and relationships between them.
+ER Diagrams
+![erdiagram](https://github.com/kevinhyska/WebProject/assets/127748153/d4769a2d-b963-4058-8998-f0874a1da897)
